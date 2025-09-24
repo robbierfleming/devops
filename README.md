@@ -7,4 +7,4 @@ This better work
 [![Releases](https://img.shields.io/github/release/robbierfleming/devops/all.svg?style=flat-square)](https://github.com/<github-username>/devops/releases)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/robbierfleming/devops/A%20workflow%20for%20my%20Hello%20World%20App/master?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/robbierfleming/devops/A%20workflow%20for%20my%20Hello%20World%20App/master?style=flat-square)

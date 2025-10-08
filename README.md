@@ -1,4 +1,4 @@
-# Software Engineering Meth
+# Software Engineering Methods
 
 Master Build Status: ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/robbierfleming/devops/main.yml?branch=master&style=flat-square)
 
